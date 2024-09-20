@@ -13,5 +13,6 @@
 2. Power Platform Developer Associate
 3. Power Platform Solution Architect Expert
 4. Power Platform App Maker Associate
-5. Dynamics 365 Customer Service Functional Consultant
-6. Dynamics 365 Sales Functional Consultant
+5. Azure Data Scientist Associate
+6. Dynamics 365 Customer Service Functional Consultant
+7. Dynamics 365 Sales Functional Consultant
